@@ -1,0 +1,5 @@
+ID,device_ID_ID,maintenanceDate,performedBy,issueReported,resolution,createdAt,createdBy,modifiedAt,modifiedBy
+M01,D01,2023-09-01,Kỹ sư A,Kiểm tra hiệu suất,Không có vấn đề
+M02,D02,2023-10-20,Kỹ sư B,Lỗi tín hiệu đầu ra,Thay cáp nối
+M03,D03,2023-08-15,Kỹ sư C,Pin suy giảm hiệu năng,Thay cell mới
+M04,D04,2023-10-01,Kỹ sư A,Bụi bẩn trên bề mặt,Vệ sinh panel
